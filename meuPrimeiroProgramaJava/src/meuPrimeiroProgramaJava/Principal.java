@@ -28,7 +28,7 @@ public class Principal {
 		// Saldacao especifica para o nome lido.
 		System.out.printf("Ola %s!\n", nome);
 		
-		//Nota Implementar leitura da idade e exibi-la	
+		//Nota Implementar leitura da idade e exibir	
 			
 	}
 
