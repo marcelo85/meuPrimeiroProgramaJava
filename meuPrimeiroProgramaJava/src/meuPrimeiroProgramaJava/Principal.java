@@ -36,6 +36,8 @@ public class Principal {
 				
 		System.out.printf("%d! Puxa! Como você e Jovem!", idade);
 
+		
+		//Nota: Implementar leitura de idade e exibi-la.
 			
 	}
 
