@@ -21,11 +21,11 @@ public class Principal {
 		// Saldacao e pergunta o nome.
 		System.out.println("Ola amigo!\nQual e o seu nome?"); 
 		
-		// Ler onome.
+		// Ler o nome.
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
 		
-		// Saldacao especifica.
+		// Saldacao especifica para o nome lido.
 		System.out.printf("Ola %s!\n", nome);
 
 	}
